@@ -5,8 +5,8 @@
         public static void Main(string[] args)
         {
 
-           int studeTAgeNOW = 
-            
+            int studeTAgeNOW = 34;
+
 
         }
     }
